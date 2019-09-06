@@ -4,3 +4,6 @@ a chnge via git gui
 
 new commit
 + some content
+
+new content
+-------------
