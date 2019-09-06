@@ -1,3 +1,6 @@
 Firts git commit
 a first change
 a chnge via git gui
+
+new commit
++ some content
