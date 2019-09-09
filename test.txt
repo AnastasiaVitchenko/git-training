@@ -7,3 +7,5 @@ new commit
 
 + feature
 + one more for feature
+
++ 3rd feature commit
