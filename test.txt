@@ -6,3 +6,4 @@ new commit
 + some content
 
 + feature
++ one more for feature
